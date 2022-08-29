@@ -6,3 +6,5 @@ eeeennnnnnjjjjjjooooooyyyyyy
 you can download the game in zip file... or copy the code in it for your own use. 
 
 this is just a demonstration code for a madlibsgame in PYTHON. 
+
+the IDE is use is PyCharm by Jetbrains
